@@ -1,0 +1,27 @@
+{
+  "name": "node-authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mihndim2020/Node-authentication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mihndim2020/Node-authentication/issues"
+  },
+  "homepage": "https://github.com/Mihndim2020/Node-authentication#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "express-session": "^1.17.2",
+    "mongoose": "^6.2.9",
+    "passport": "^0.5.2",
+    "passport-local": "^1.0.0"
+  }
+}
