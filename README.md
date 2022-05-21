@@ -1,9 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Node-authentication
-> This is a simple authentication exercise implemented with node.js
-
-![screenshot](./app_screenshot.png)
+> This is a simple authentication exercise implemented with node.js a Javascript backend framework.
 
 Additional description about the project and its features.
 
